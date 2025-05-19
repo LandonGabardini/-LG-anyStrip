@@ -53,7 +53,7 @@ default
         // if message contains ZHAO_STANDON (exiting pose)
         if(~llSubStringIndex(msg, "ZHAO_STANDON")) {
             // update anystrip
-            llSay(2, "yarefresh");
+            llSay(2, strPrefix + "refresh");
         }
     }
 
