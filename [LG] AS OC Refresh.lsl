@@ -7,7 +7,7 @@
  * when an OC-compatible device exits a pose. This is only
  * useful and recommended in combination with products like
  * [LG] Feet AutoSelect for Legacy, Maitreya & Reborn to restore
- * the hover height when existing a OC-device pose (e.g. kneel).
+ * the hover height when exiting a OC-device pose (e.g. kneel).
  */
 
 // the channel, default 2 (since version 4.x)
